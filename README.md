@@ -11,5 +11,6 @@
 Также существует раздел с контактной информацией о клинике.
 
 ## База данных
-![image](https://user-images.githubusercontent.com/102964885/198399939-1533c62e-db11-465d-b69e-49f6f52aa2a4.png)
+![image](https://user-images.githubusercontent.com/102964885/198402436-58fcea91-4867-42d2-aac6-067d3b43ae5a.png)
+
 
