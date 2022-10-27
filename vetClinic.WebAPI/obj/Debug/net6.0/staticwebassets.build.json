@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jpXV3yL/tP5QxWAbzikyAO5t19QZlzK6Rpa8xssxizI=",
+  "Source": "vetClinic.WebAPI",
+  "BasePath": "_content/vetClinic.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
