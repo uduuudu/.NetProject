@@ -25,3 +25,17 @@ D:\Projects\.NetProject\vetClinic.WebAPI\obj\Debug\net6.0\refint\vetClinic.WebAP
 D:\Projects\.NetProject\vetClinic.WebAPI\obj\Debug\net6.0\vetClinic.WebAPI.pdb
 D:\Projects\.NetProject\vetClinic.WebAPI\obj\Debug\net6.0\vetClinic.WebAPI.genruntimeconfig.cache
 D:\Projects\.NetProject\vetClinic.WebAPI\obj\Debug\net6.0\ref\vetClinic.WebAPI.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Enrichers.CorrelationId.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Expressions.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Projects\.NetProject\vetClinic.WebAPI\bin\Debug\net6.0\Serilog.Sinks.File.dll
